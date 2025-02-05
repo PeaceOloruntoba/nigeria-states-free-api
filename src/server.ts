@@ -2,7 +2,7 @@ import express from "express";
 import cors from "cors";
 import admin from "firebase-admin";
 import dotenv from "dotenv";
-import serviceAccount from "../firebase-adminsdk.json";
+import serviceAccount from "../nigeria-states-free-api-firebase-adminsdk-fbsvc-05eaa6ce2b.json";
 
 dotenv.config();
 
